@@ -1,0 +1,7 @@
+# Compiled Java
+*.class
+
+# Editor
+.vscode/
+.idea/
+*.iml
