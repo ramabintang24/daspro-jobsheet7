@@ -1,5 +1,7 @@
 # Compiled Java
-*.class
+*.class*
+*.md*
+documentation/
 
 # Editor
 .vscode/
